@@ -9,7 +9,7 @@
 <div>
 <a href="https://github.com/niqueladopl">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NiqueladoPL&show_icons=true&theme=tokyonight">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiqueladoPL&layout=compact&langs_count=16&theme=tokyonight">
+<img width"10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiqueladoPL&layout=compact&langs_count=16&theme=tokyonight">
 </div><br/>
 
 ## Tecnologias do meu dia a dia:
@@ -21,7 +21,7 @@
     <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
     <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-</div><br/><br/>
+</div><br/>
 
 
 ## Minha máquina:
