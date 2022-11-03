@@ -9,7 +9,7 @@
 <div>
 <a href="https://github.com/niqueladopl">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NiqueladoPL&show_icons=true&theme=tokyonight">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiqueladoPL&layout=compact&langs_count=16&theme=tokyonight">
+<img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiqueladoPL&layout=compact&langs_count=16&theme=tokyonight">
 </div><br/>
 
 ## Tecnologias do meu dia a dia:
