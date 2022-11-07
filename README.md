@@ -35,8 +35,11 @@
 
 ## Minha máquina:
 
-<div style="display: inline_block">  
-    <img align="center" alt="lenovo_ideapad320" src="https://img.shields.io/badge/Windows-Lenovo_Ideapad_320-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-    <img align="center" alt="intel_core_i7_7500u" src="https://img.shields.io/badge/Intel-Core_i7_7500u-0071C5?style=for-the-badge&logo=intel&logoColor=white">
-    <img align="center" alt="geforce_940mx" src="https://img.shields.io/badge/NVIDIA-geforce_940mx-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+<div style="display: inline_block">
+<a href="https://www.helptechco.com/content/80XL00K9AK">
+<img align="center" alt="lenovo_ideapad320" src="https://img.shields.io/badge/Windows-Lenovo_Ideapad_320-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
+<a href="https://www.intel.com.br/content/www/br/pt/products/sku/95451/intel-core-i77500u-processor-4m-cache-up-to-3-50-ghz/specifications.html">
+    <img align="center" alt="intel_core_i7_7500u" src="https://img.shields.io/badge/Intel-Core_i7_7500u-0071C5?style=for-the-badge&logo=intel&logoColor=white"></a>
+<a href="https://www.nvidia.com/en-us/geforce/gaming-laptops/geforce-940mx/">
+    <img align="center" alt="geforce_940mx" src="https://img.shields.io/badge/NVIDIA-geforce_940mx-76B900?style=for-the-badge&logo=nvidia&logoColor=white"></a>
 </div>
