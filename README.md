@@ -1,10 +1,8 @@
-
-## Olá, Eu sou o Victor! 😃
+## Heey, I'm Victor! 😃
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/niqueladopl)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/niqueladopl)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ads_semlimites)
 [![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20407336/niqueladopl)
-
 
 <div>
 <a href="https://github.com/niqueladopl">
@@ -12,7 +10,7 @@
 <img width"10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NiqueladoPL&layout=compact&langs_count=16&theme=tokyonight">
 </div><br/>
 
-## Tecnologias do meu dia a dia:
+## Tecnologies:
 
 <div style="display: inline_block">   
     <a href="https://devdocs.io/html/">
@@ -32,8 +30,7 @@
     
 </div><br/>
 
-
-## Minha máquina:
+## My machine:
 
 <div style="display: inline_block">
 <a href="https://www.helptechco.com/content/80XL00K9AK">
